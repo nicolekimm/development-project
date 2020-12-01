@@ -1,0 +1,22 @@
+.list {
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.list-2{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.dropdown{
+    margin-top: -42%;
+    margin-left: 19.5%;
+}
+
+.buttons:focus{
+    margin-top: 5%;
+}
+
+h2{
+    text-align: center;
+}
