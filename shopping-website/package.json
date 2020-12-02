@@ -1,6 +1,6 @@
 {
   "name": "shopping-website",
-  "homepage": ".",
+  "homepage": "https://pro-fresh-inal-market.herokuapp.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
