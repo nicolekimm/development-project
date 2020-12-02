@@ -1,5 +1,6 @@
 {
   "name": "shopping-website",
+  "homepage": "https://nicolekimm.github.io/development-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
